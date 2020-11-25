@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name         9anime Bingewatcher+ Alt
+// @name         7anime Bingewatcher+ Alt
 // @namespace    https://greasyfork.org/en/users/10118-drhousex
 // @version      2.32
 // @description  Auto-fullscreen, skip intros, jump to next episode 9anime on Vidstream and MyCloud videos
